@@ -16,7 +16,7 @@ This repository contains the code for analysing single cell rna-seq data for the
 
 **load.R**    : Data pre-processing and filtering
 
-**monocle.R** : Single cell trajectory analysis of pancreas, BEAM analysis for all the celltpes and there arguments
+**monocle.R** : Single cell trajectory analysis of pancreas, BEAM analysis for all the celltypes and there arguments
 
 **scenic.R**  : Normalization of raw count data, scenic analysis as described in the manuscript.
 
