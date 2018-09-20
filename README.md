@@ -20,4 +20,4 @@ This repository contains the code for analysing single cell rna-seq data for the
 
 **scenic.R**  : Normalization of raw count data, scenic analysis as described in the manuscript.
 
-Some of the additional result are included in the respective folders.
+ditional result are included in the respective folders.
